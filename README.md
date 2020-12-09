@@ -16,3 +16,7 @@ Let see
 #### How to contribute
 
 Sample website with plenty of files for demos dgdgd
+
+#### Copyright
+
+Git training
