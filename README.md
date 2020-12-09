@@ -19,4 +19,4 @@ Sample website with plenty of files for demos. Non so che scrivere ancora
 
 #### Copyright
 
-Git training
+Git training. All right reserved
